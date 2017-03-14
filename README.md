@@ -1,2 +1,3 @@
 # hello-world
-Hello world Repo
+
+These are changes that i am making on 23:50, 14.03.17.
